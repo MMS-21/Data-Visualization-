@@ -32,7 +32,7 @@ This visualization presents CO2 emissions data for the 20 countries with the hig
    - Oil Production and Emissions:
        - These countries hold vast oil reserves and are major oil producers.
        - Extracting, refining, and burning oil releases CO2, a major greenhouse gas contributing to climate change.
-> ``📝`` Find More In [Global CO2 Emissions by Fuel and Industry](https://github.com/MMS-21/Data-Visualization-/tree/c21ed8cb4fa3c0e091764398009590ebebab1248/Global%20CO2%20Emissions%20by%20Fuel%20and%20Industry)
+> ``📝`` Find More In [Global CO2 Emissions by Fuel and Industry](https://github.com/MMS-21/Data-Visualization-/tree/2453bd4233c0cc7cefffc270477c8e3343936b81/Global%20CO2%20Emissions%20by%20Fuel%20and%20Industry)
 ---
 **NOTE: There is a Key part that must be considered reviewing before trying to interpret the Visualization**
 - The Legend: it explains the symbols, lines, and colours used to represent different data points or variables.
