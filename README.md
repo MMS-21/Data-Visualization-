@@ -25,7 +25,7 @@ This Power BI report visualizes the year-to-date (YTD) sales performance for Pla
    - **Value YTD:** Total sales for each account.
 ----
 
-### [Project 2: CO2 Emissions per capita For 2020]([project1/]https://github.com/MMS-21/Data-Visualization-/tree/9d47cae3f36e75b5a1f371dfd09d8be47b1ac735/CO2%20Emissions%20per%20capita%20For%202020)
+### [Project 2: CO2 Emissions per capita For 2020](https://github.com/MMS-21/Data-Visualization-/tree/9d47cae3f36e75b5a1f371dfd09d8be47b1ac735/CO2%20Emissions%20per%20capita%20For%202020)
 
 #### Description: 
 This visualization presents CO2 emissions data for the 20 countries with the highest CO2 emissions per capita in 2020, all with populations exceeding 5 million.
