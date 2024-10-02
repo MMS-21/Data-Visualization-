@@ -25,7 +25,24 @@ This Power BI report visualizes the year-to-date (YTD) sales performance for Pla
    - **Value YTD:** Total sales for each account.
 ----
 
-### [Project 2: CO2 Emissions per capita For 2020](https://github.com/MMS-21/Data-Visualization-/tree/9d47cae3f36e75b5a1f371dfd09d8be47b1ac735/CO2%20Emissions%20per%20capita%20For%202020)
+
+---
+### [Project 2: King County, Washington House Sales Dashboard – Tableau](https://github.com/MMS-21/Data-Visualization-/tree/ee5bca2b6f3bbd5d9a3b31fcc0b74a98420ad8e3/KING%20COUNTY%2C%20WASHINGTON%20HOUSE%20SALES%20DASHBOARD)
+
+#### 1. **Overview**
+This Tableau dashboard provides an interactive visualization of the housing market in King County, Washington, focusing on sales data for July 2014. It includes key insights like the daily average house sales price, price distribution, and the relationship between house condition, view, and price. The dashboard allows users to explore data by adjusting filters such as year built, square footage, and lot size.
+#### 2. **Insights from the Dashboard**
+- **Peak Sales Price**: The highest average sales price occurred on **July 5th**, where house prices spiked.
+- **Price Distribution**: A large majority of houses sold in July 2014 fall within the **200K - 800K** price range.
+- **View vs Condition**: The combination of view and condition significantly influences house prices. Houses with good views and excellent conditions command the highest prices, while those with no view or poor condition have much lower average sales prices.
+  
+
+----
+
+
+---
+
+### [Project 3: CO2 Emissions per capita For 2020](https://github.com/MMS-21/Data-Visualization-/tree/9d47cae3f36e75b5a1f371dfd09d8be47b1ac735/CO2%20Emissions%20per%20capita%20For%202020)
 
 #### Description: 
 This visualization presents CO2 emissions data for the 20 countries with the highest CO2 emissions per capita in 2020, all with populations exceeding 5 million.
