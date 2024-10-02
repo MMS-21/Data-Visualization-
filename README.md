@@ -3,7 +3,7 @@
 This repository hosts a collection of data visualization projects created using tools like Power BI, Tableau, Python, R, JavaScript, and Adobe Illustrator. From environmental data to economic trends and more, these visualizations provide insights and analysis on various topics, presented in visually engaging formats.
 
 ## Projects
-### [**Project 1: Plant Co. Sales Performance 2022 – 2024 Power BI Report**](https://github.com/MMS-21/Data-Visualization-/tree/afee3c916a15ee3363f7154829cd9dd31fcd3bdf/Power%20BI%20Dashboard%20Plant%20Co.%20Performance%202022%20-%20204)
+### [Project 1: Plant Co. Sales Performance 2022 – 2024 Power BI Report](https://github.com/MMS-21/Data-Visualization-/tree/afee3c916a15ee3363f7154829cd9dd31fcd3bdf/Power%20BI%20Dashboard%20Plant%20Co.%20Performance%202022%20-%20204)
 
 #### Description: 
 This Power BI report visualizes the year-to-date (YTD) sales performance for Plant Co. in 2023. The report tracks key metrics like sales, gross profit percentage (GP%), and prior year-to-date (PYTD) sales. Custom measures, such as Gross Profit, Revenue, and PYTD, were calculated to enhance insights and comparisons. The report provides a detailed look into the performance of different countries, product categories, and time periods.
