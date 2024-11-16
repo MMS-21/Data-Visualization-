@@ -1,5 +1,5 @@
 # **Hospital Operational Efficiency**
-
+![hospital efficiency](https://github.com/MMS-21/Data-Visualization-/blob/02b84f29d4b0e77966405f291bd653840375c02d/Hospital%20Operational%20Efficiency/snap/operational%20effeciency.png)
 ## **Objective**
 
 Analyze hospital operations focusing on:
