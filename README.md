@@ -3,7 +3,61 @@
 This repository hosts a collection of data visualization projects created using tools like Power BI, Tableau, Python, R, JavaScript, and Adobe Illustrator. From environmental data to economic trends and more, these visualizations provide insights and analysis on various topics, presented in visually engaging formats.
 
 ## Projects
-### [Project 1: Plant Co. Sales Performance 2022 – 2024 Power BI Report](https://github.com/MMS-21/Data-Visualization-/tree/afee3c916a15ee3363f7154829cd9dd31fcd3bdf/Power%20BI%20Dashboard%20Plant%20Co.%20Performance%202022%20-%20204)
+### [Project 1: MelodyMart Performance Analysis - Power BI Report](https://github.com/MMS-21/Data-Visualization-/tree/c63c2007303dabf0c0b05faf03c098c0185eed42/MelodyMart%20Performance%20Analysis)
+#### **Objective**
+**Analyze sales data to:**
+ - Optimize inventory
+ - Understand customer preferences
+ - Boost revenue performance
+   
+#### **Key Metrics**
+ - Total Revenue
+ - Units Sold
+ - Top Revenue-Generating Cities
+ - Top Revenue-Generating Genre
+ - Average Price per Unit
+
+----
+
+
+---
+
+### [Project 2: Hospital Operational Effeciency](https://github.com/MMS-21/Data-Visualization-/tree/c63c2007303dabf0c0b05faf03c098c0185eed42/Hospital%20Operational%20Efficiency)
+#### **Objective**
+
+Analyze hospital operations focusing on:
+
+* Patient wait times
+* Surgery durations
+* Department performance
+
+#### **Key Metrics**
+
+* Average Wait Time to Surgery Ratio
+* Patients Meeting Wait Time Target
+* Average Surgery Duration
+* Average Wait Time
+----
+
+
+---
+### [Project 3: Patient Satisfaction Analysis - Tableau](https://github.com/MMS-21/Data-Visualization-/tree/4be95d5a7d9ee3afd60b286a45725c56582ee3fe/Patient%20Satisfaction%20Analysis)
+#### Objective
+Analyze patient satisfaction data across:
+
+* Departments
+* Gender
+* Age groups
+
+#### Key Metrics
+* **Highest Satisfaction Score:** Renal (5.3)
+* **Lowest Satisfaction Score:** Orthopedics (4.9)
+* **Correlation:** Shorter wait times correlate with higher satisfaction.
+----
+
+
+---
+### [Project 4: Plant Co. Sales Performance 2022 – 2024 Power BI Report](https://github.com/MMS-21/Data-Visualization-/tree/afee3c916a15ee3363f7154829cd9dd31fcd3bdf/Power%20BI%20Dashboard%20Plant%20Co.%20Performance%202022%20-%20204)
 
 #### Description: 
 This Power BI report visualizes the year-to-date (YTD) sales performance for Plant Co. in 2023. The report tracks key metrics like sales, gross profit percentage (GP%), and prior year-to-date (PYTD) sales. Custom measures, such as Gross Profit, Revenue, and PYTD, were calculated to enhance insights and comparisons. The report provides a detailed look into the performance of different countries, product categories, and time periods.
@@ -27,7 +81,7 @@ This Power BI report visualizes the year-to-date (YTD) sales performance for Pla
 
 
 ---
-### [Project 2: King County, Washington House Sales Dashboard – Tableau](https://github.com/MMS-21/Data-Visualization-/tree/ee5bca2b6f3bbd5d9a3b31fcc0b74a98420ad8e3/KING%20COUNTY%2C%20WASHINGTON%20HOUSE%20SALES%20DASHBOARD)
+### [Project 5: King County, Washington House Sales Dashboard – Tableau](https://github.com/MMS-21/Data-Visualization-/tree/ee5bca2b6f3bbd5d9a3b31fcc0b74a98420ad8e3/KING%20COUNTY%2C%20WASHINGTON%20HOUSE%20SALES%20DASHBOARD)
 
 #### 1. **Overview**
 This Tableau dashboard provides an interactive visualization of the housing market in King County, Washington, focusing on sales data for July 2014. It includes key insights like the daily average house sales price, price distribution, and the relationship between house condition, view, and price. The dashboard allows users to explore data by adjusting filters such as year built, square footage, and lot size.
@@ -42,7 +96,7 @@ This Tableau dashboard provides an interactive visualization of the housing mark
 
 ---
 
-### [Project 3: CO2 Emissions per capita For 2020](https://github.com/MMS-21/Data-Visualization-/tree/9d47cae3f36e75b5a1f371dfd09d8be47b1ac735/CO2%20Emissions%20per%20capita%20For%202020)
+### [Project 6: CO2 Emissions per capita For 2020](https://github.com/MMS-21/Data-Visualization-/tree/9d47cae3f36e75b5a1f371dfd09d8be47b1ac735/CO2%20Emissions%20per%20capita%20For%202020)
 
 #### Description: 
 This visualization presents CO2 emissions data for the 20 countries with the highest CO2 emissions per capita in 2020, all with populations exceeding 5 million.
